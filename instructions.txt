@@ -1,0 +1,3 @@
+I have added jupyter notebook (assign.ipynb) as well as the python file(assign.py).
+For ease of running I have already downloaded all data and saved after doing extracting required components.
+Output file - Answers.csv
